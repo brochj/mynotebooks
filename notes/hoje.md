@@ -1,7 +1,8 @@
 ---
+deleted: true
 title: hoje
 created: '2021-06-21T23:55:00.387Z'
-modified: '2021-06-22T00:04:37.851Z'
+modified: '2021-11-12T20:19:20.756Z'
 ---
 
 # hoje
